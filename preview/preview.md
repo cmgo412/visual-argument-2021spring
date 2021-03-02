@@ -1,0 +1,3 @@
+# Visual Argument Preview Log
+
+For my preview, I decided to... 

@@ -12,7 +12,9 @@ Please refer to [ASSETS.md](https://github.com/cmgo412/visual-argument-2021sprin
 
 ### Preview — 3/2/21
 
-*This section is under construction and will be updated shortly to reflect the completion of the preview component for the visual argument project.*
+For my preview, I decided to depart a little from my initial project proposal. While it still centers around mental health, I mainly wanted to emphasize some of the symptoms and experiences of depression—specifically that it's associated with feelings of fatigue, hopelessness, lack of concentration, and slowness in activity. I know from personal experience that I become apathetic and that my head tends to feel heavy (like it's filled with water), so I decided to utilize that overarching theme when creating my preview. Moreover, depression is often referred to in metaphors of drowning or suffocating, which translated well for the project.
+
+More details about my visual argument preview can be found at [preview.md](https://github.com/cmgo412/visual-argument-2021spring/blob/master/preview/preview.md).
 
 ### Draft — 3/4/21
 

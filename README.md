@@ -1,6 +1,6 @@
-# <b>Title Here</b>
+# <b>Head Above Water</b>
 
-This is the repository for my visual arugment assignment in Composing Digital Media (Spring 2021). Because the rationale behind the project is to explore the affordances of [insert], I have decided to [insert]. All components for the project are explained below. *For more information regarding the assignment, please refer to [assignment.md](https://github.com/cmgo412/visual-argument-2021spring/blob/master/assignment.md).*
+This is the repository for my visual argument assignment in Composing Digital Media (Spring 2021). Because the rationale behind the project is to explore the affordances of [insert], I have decided to [insert]. All components for the project are explained below. *For more information regarding the assignment, please refer to [assignment.md](https://github.com/cmgo412/visual-argument-2021spring/blob/master/assignment.md).*
 
 ### Project Proposal
 
@@ -13,3 +13,7 @@ Please refer to [ASSETS.md](https://github.com/cmgo412/visual-argument-2021sprin
 ### Preview — 3/2/21
 
 *This section is under construction and will be updated shortly to reflect the completion of the preview component for the visual argument project.*
+
+### Draft — 3/4/21
+
+*This section is under construction and will be updated shortly to reflect the completion of the draft component for the visual argument project.*

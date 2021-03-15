@@ -1,6 +1,6 @@
 # <b>Head Above Water</b>
 
-This is the repository for my visual argument assignment in Composing Digital Media (Spring 2021). Because the rationale behind the project is to explore the affordances of [insert], I have decided to [insert]. All components for the project are explained below. *For more information regarding the assignment, please refer to [assignment.md](https://github.com/cmgo412/visual-argument-2021spring/blob/master/assignment.md).*
+This is the repository for my visual argument assignment in Composing Digital Media (Spring 2021). Because the rationale behind the project is to explore the affordances of images as a medium and to make a rhetorical claim through the juxtaposition of images and text, I have decided to revolve my project around the idea of burnout and the importance of reaching out to your support network during a mental health crisis. All components for the project are explained below. *For more information regarding the assignment, please refer to [assignment.md](https://github.com/cmgo412/visual-argument-2021spring/blob/master/assignment.md).*
 
 ### Project Proposal
 
@@ -16,6 +16,6 @@ For my preview, I decided to depart a little from my initial project proposal. W
 
 More details about my visual argument preview can be found at [preview.md](https://github.com/cmgo412/visual-argument-2021spring/blob/master/preview/preview.md).
 
-### Draft — 3/4/21
+<!-- ### Draft — 3/4/21
 
-*This section is under construction and will be updated shortly to reflect the completion of the draft component for the visual argument project.*
+*This section is under construction and will be updated shortly to reflect the completion of the draft component for the visual argument project.* -->
